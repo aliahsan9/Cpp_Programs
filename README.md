@@ -1,2 +1,2 @@
 # C-Programs
-These are C++ Programs from all course Basic to Advanced and also DSA in it.
+C++ Programs from all course Basic to Advanced including DSA in proper configuration.
